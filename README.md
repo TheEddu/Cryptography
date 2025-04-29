@@ -1,9 +1,13 @@
 # Cryptography
 
 Projeto de criptografia, desenvolvido para fins de estudo e demonstração de conceitos básicos de cifragem/decifragem.  
-Permite experimentar algoritmos de criptografia utilizando uma interface web fácil de usar.
-Baseado em um projeto do curso [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code) de Angela Yu.
-No projeto original, o projeto era apenas backend, decidi levar o desafio um pouco além e implementar front-end também.
+Permite experimentar algoritmos de criptografia utilizando uma interface web fácil de usar.  
+Baseado em um projeto do curso [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code) de Angela Yu.  
+No projeto original, o projeto era apenas backend, decidi levar o desafio um pouco além e implementar front-end também.  
+
+## Capturas de Tela
+![Captura de tela](Screenshot.png)
+
 
 ## 🚀 Funcionalidades
 
@@ -15,7 +19,7 @@ No projeto original, o projeto era apenas backend, decidi levar o desafio um pou
 
 - **Python 3**
 - **Flask** - Para criar a aplicação web.
-- **HTML/CSS** - (dentro da pasta `templates/`) para a interface de usuário.
+- **HTML/Tailwind CSS** para a interface de usuário.
 
 ## 📁 Estrutura do Projeto
 
