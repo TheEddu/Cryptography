@@ -6,7 +6,7 @@ Baseado em um projeto do curso [100 Days of Code: The Complete Python Pro Bootca
 No projeto original, o projeto era apenas backend, decidi levar o desafio um pouco além e implementar front-end também.  
 
 ## Capturas de Tela
-![Captura de tela](Screenshot.png)
+![Captura de tela](/static/Screenshot.png)
 
 
 ## 🚀 Funcionalidades
